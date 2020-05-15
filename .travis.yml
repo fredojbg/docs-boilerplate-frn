@@ -13,7 +13,7 @@ deploy:
   access_key_id: GOOGWEH4F4XE3U4KXBH556EW
   secret_access_key: GAHYaZ3he1SuqftRfwKrvPxR1BEBT3AF4X/CAcj1
   bucket: teste-alfredo
-  local_dir: build
+  local_dir: blog
   on:
     branch: master
   acl: public-read
